@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript演示</title>
+    <style>
+        body {
+            transition: background-color 0.5s ease;
+        }
+    </style>
+</head>
+<body>
+
+<h1>JavaScript演示</h1>
+
+<button onclick="showAlert()">弹出对话框</button>
+<button onclick="changeBackgroundColor()">改变背景颜色</button>
+<button onclick="displayCurrentTime()">显示当前时间</button>
+
+<script>
+    function showAlert() {
+        alert("这是一个弹出对话框！");
+    }
+
+    function changeBackgroundColor() {
+        document.body.style.backgroundColor = "lightblue";
+    }
+
+    function displayCurrentTime() {
+        var now = new Date();
+        var timeString = now.toLocaleTimeString();
+        alert("当前时间是：" + timeString);
+    }
+</script>
+
+</body>
+</html>
