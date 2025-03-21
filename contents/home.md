@@ -1,20 +1,12 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Marine Engineering at the Department of 13, Huazhong University of Science and Technology, the School of Naval Architecture and Ocean Engineering.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2476668113@qq.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**NO.1 Middle School affiliated to Central China Normal University**, senior high school student       
 
 #### Research Interests  
-XX, XX, XX, XX.
+Research on Overall Design and Optimization Technology of Bionic Shark Marine Sightseeing Boat.
