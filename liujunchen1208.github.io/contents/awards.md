@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- 优秀毕业生, 2024. 
+- 优秀团员，2024. 
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- outstanding graduate, 2024. 
+- excellent communist youth league member,2024.
